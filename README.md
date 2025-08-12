@@ -3,7 +3,7 @@ Deepfake Voice Detection with LSTM Detect AI-generated voices using signal proce
 Deepfake Voice Detection System
 Accurately identify synthetic voices using deep learning (92.09% accuracy)
 
-This repository contains a production-ready pipeline for detecting AI-generated deepfake voices by combining signal processing (MFCCs, chroma features) with deep learning (CNN-LSTM hybrid models). Designed to combat voice fraud and misinformation.
+This repository contains a production-ready pipeline for detecting AI-generated deepfake voices by combining signal processing (MFCCs, chroma features) with deep learning (LSTM model). Designed to combat voice fraud and misinformation.
 
 ## 📁 Repository Contents
 File/Folder	Description
